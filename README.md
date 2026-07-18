@@ -120,7 +120,7 @@ that humans understand.
 
 <div align="center">
 
-<a href="https://github.com/bablu">
+<a href="https://github.com/git-hubratlee">
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
 </a>
 
